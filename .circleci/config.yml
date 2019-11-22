@@ -135,8 +135,3 @@ jobs:
 
       # run tests!
       - run: mvn integration-test
-
-How could we make project setup easier?
-
-Please type here...
-Next 
